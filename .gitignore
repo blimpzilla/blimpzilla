@@ -1,0 +1,5 @@
+# Local archive of unused assets
+/assets/.unused
+
+# macOS Finder metadata
+.DS_Store
